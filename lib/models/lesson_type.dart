@@ -1,0 +1,20 @@
+// models/lesson_type.dart
+enum LessonType {
+  pictureWord,
+  fillBlank,
+  multipleChoice,
+  grammar,
+  teacherLesson,
+  missingLetter,
+  voiceRecognition,
+  textReading,
+  dialog,
+  cardGame,
+  balloonGame,
+  basketballGame,
+  chat,
+  sentenceFormation,
+  youtubeLink,
+  blackboard,
+  letterScramble,
+}
